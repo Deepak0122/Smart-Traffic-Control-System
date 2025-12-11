@@ -22,5 +22,3 @@ This project dynamically controls traffic light timing using YOLOv8-based vehicl
 1. Observe adaptive traffic control simulation
 
 ---
-
-📌 Developed as part of AI Hackathon Projects 🚀
